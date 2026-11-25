@@ -81,8 +81,3 @@ Nesta pesquisa, são analisadas três profissões presentes na árvore das profi
 As três profissões passaram por mudanças importantes com o avanço da tecnologia. Nos próximos anos, a Inteligência Artificial deverá ampliar a automação e auxiliar os profissionais em suas atividades.
 
 Entretanto, **a tecnologia não elimina a importância das habilidades humanas**. Liderança, responsabilidade, comunicação e cuidado continuarão sendo essenciais para o futuro do trabalho.
-
----
-
-*Pesquisa escolar — Árvore das Profissões*  
-*Período analisado: 2006–2026 | Perspectivas: 2026–2036*
